@@ -1,0 +1,7 @@
+Features extracted from ECG: https://docs.google.com/spreadsheets/d/14bO0firqlWqAyStyZWuLhzxEB8GPA7xQ/edit?usp=sharing&ouid=107174792820934539919&rtpof=true&sd=true
+
+Features extracted from EEG: https://docs.google.com/spreadsheets/d/1SUasBGO1F_KJeklUONCAipsqoOx8_f6U/edit?usp=sharing&ouid=107174792820934539919&rtpof=true&sd=true
+
+Features extracted from PPG: https://docs.google.com/spreadsheets/d/1fLUuA0MHqWz7tomKEDg1YoUV-60Bma7q/edit?usp=sharing&ouid=107174792820934539919&rtpof=true&sd=true
+
+Document describing methodology, with screenshots: https://drive.google.com/file/d/16oFnZSXKJ5VGjFOf2guEAYPWi_y-cNp4/view?usp=sharing
